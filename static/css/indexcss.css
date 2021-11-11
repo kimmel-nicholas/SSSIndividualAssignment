@@ -1,0 +1,12 @@
+#homething{
+    padding: 25%;
+}
+h1 {
+    background: -webkit-linear-gradient(left, rgb(255, 72, 0), rgb(219, 26, 91));
+    -webkit-background-clip: text;
+    background-clip: white;
+    -webkit-text-fill-color: transparent;
+}
+.nav-link{
+    color:black !important;
+}

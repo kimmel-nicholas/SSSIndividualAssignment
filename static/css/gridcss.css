@@ -1,0 +1,30 @@
+#jumbo{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 150px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+}
+#navbar{
+    margin-top: 0px;
+    background-color: grey;
+    border-radius: 0%;
+
+}
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+.navbar.center .navbar-inner .nav {
+    float: none;
+    display:inline-block;
+    vertical-align: middle;
+
+}
+.border{
+    border-radius: 15px;
+    border-width: 5px;
+}
+
